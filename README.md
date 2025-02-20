@@ -1,6 +1,6 @@
 ## Olá, eu sou a Aline Wornath! 👋
 
-Bem-vindo(a) ao meu perfil! Sou estudante de **Ciência de Dados** na **[UNIVESP (Universidade Virtual do Estado de São Paulo)](https://www.univesp.br/)** e apaixonada por aprender novas tecnologias. Atualmente, também estou cursando uma formação em **Back-End Java** na **[Ada Tech](https://ada.tech/)**. Abaixo, você encontrará mais sobre minha trajetória e projetos!
+Bem-vindo(a) ao meu perfil! Sou estudante de **Ciência de Dados** na **[UNIVESP (Universidade Virtual do Estado de São Paulo)](https://www.univesp.br/)** e apaixonada por aprender novas tecnologias. Atualmente, também estou cursando uma formação em **Back-End Java** na **Ada Tech**. Abaixo, você encontrará mais sobre minha trajetória e projetos!
 
 ## 💻 Tecnologias
 - **Linguagens de Programação & Ferramentas**:
@@ -16,13 +16,7 @@ Bem-vindo(a) ao meu perfil! Sou estudante de **Ciência de Dados** na **[UNIVESP
 - **SOLID** | **Back-End Java** | **Boas Práticas de Programação**
 
 ## 🌍 Localização
-- 📍 [São Bernardo do Campo/SP](https://goo.gl/maps/VFpFnXX9EdZJbE7T6](https://www.google.com/maps/place/São+Bernardo+do+Campo,+SP/), Brasil
-
-## 📂 Projetos
-### [Sistema de Locação de Veículos – Desenvolva+ Ada Tech](https://github.com/AlineWornath/Sistema-Locacao-Veiculos)
-- Descrição: Sistema desenvolvido durante o curso de Back-End Java na Ada Tech para gestão de locação de veículos.
-- Tecnologias: Java, Git
-- Repositório: [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/AlineWornath/Sistema-Locacao-Veiculos)
+- São Bernardo do Campo/SP
 
 ## 📂 Projetos
 ### [Sistema de Locação de Veículos – Desenvolva+ Ada Tech](https://github.com/AlineWornath/Sistema-Locacao-Veiculos)
