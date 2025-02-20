@@ -16,7 +16,7 @@ Bem-vindo(a) ao meu perfil! Sou estudante de **Ciência de Dados** na **[UNIVESP
 - **SOLID** | **Back-End Java** | **Boas Práticas de Programação**
 
 ## 🌍 Localização
-- 📍 [São Bernardo do Campo/SP](https://goo.gl/maps/VFpFnXX9EdZJbE7T6), Brasil
+- 📍 [São Bernardo do Campo/SP](https://goo.gl/maps/VFpFnXX9EdZJbE7T6](https://www.google.com/maps/place/São+Bernardo+do+Campo,+SP/), Brasil
 
 ## 📂 Projetos
 ### [Sistema de Locação de Veículos – Desenvolva+ Ada Tech](https://github.com/AlineWornath/Sistema-Locacao-Veiculos)
