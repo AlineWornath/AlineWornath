@@ -4,11 +4,11 @@ Bem-vindo(a) ao meu perfil! Sou estudante de **Ciência de Dados** na **[UNIVESP
 
 ## 💻 Tecnologias
 - **Linguagens de Programação & Ferramentas**:
-  - [Java](https://www.java.com/) ![Java](https://img.shields.io/badge/Java-%23F7DF1E?logo=java&logoColor=white)
-  - [Python](https://www.python.org/) ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
-  - [SQL](https://www.postgresql.org/) ![SQL](https://img.shields.io/badge/SQL-%2300f?logo=postgresql&logoColor=white)
-  - [Git](https://git-scm.com/) ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
-  - [GitHub](https://github.com/) ![GitHub](https://img.shields.io/badge/GitHub-%23121011?logo=github&logoColor=white)
+  - [![Java](https://img.shields.io/badge/Java-%23F7DF1E?logo=java&logoColor=white)](https://www.java.com/) 
+  - [![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)](https://www.python.org/) 
+  - [![SQL](https://img.shields.io/badge/SQL-%2300f?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  - [![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)](https://git-scm.com/)
+  - [![GitHub](https://img.shields.io/badge/GitHub-%23121011?logo=github&logoColor=white)](https://github.com/)
 
 
 ## 🔑 Habilidades e Conhecimentos
