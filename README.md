@@ -1,6 +1,6 @@
 ## Olá, eu sou a Aline Wornath! 👋
 
-Bem-vindo(a) ao meu perfil! Sou estudante de **Ciência de Dados** na **[UNIVESP (Universidade Virtual do Estado de São Paulo)](https://www.univesp.br/)** e apaixonada por aprender novas tecnologias. Atualmente, também estou cursando uma formação em **Back-End Java** na **[Ada Tech](https://www.adatech.com.br/)**. Abaixo, você encontrará mais sobre minha trajetória e projetos!
+Bem-vindo(a) ao meu perfil! Sou estudante de **Ciência de Dados** na **[UNIVESP (Universidade Virtual do Estado de São Paulo)](https://www.univesp.br/)** e apaixonada por aprender novas tecnologias. Atualmente, também estou cursando uma formação em **Back-End Java** na **[Ada Tech]([https://www.adatech.com.br/](https://ada.tech/))**. Abaixo, você encontrará mais sobre minha trajetória e projetos!
 
 ## 💻 Tecnologias
 - **Linguagens de Programação & Ferramentas**:
